@@ -29,8 +29,8 @@ This computer vision project is designed to address the challenge of [brief desc
 
 ```bash
 # Example installation commands
-git clone https://github.com/your-username/computer-vision-project.git
-cd computer-vision-project
+git clone https://github.com/nasaro112702/Computer-Vision-Python.git
+cd nasaro112702/Computer-Vision-Python
 pip install -r requirements.txt
 ```
 
@@ -41,8 +41,8 @@ Follow these steps to install the project:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/computer-vision-project.git
-   cd computer-vision-project
+   git clone https://github.com/nasaro112702/Computer-Vision-Python.git
+   cd nasaro112702/Computer-Vision-Python
    ```
 
 2. Install dependencies:
