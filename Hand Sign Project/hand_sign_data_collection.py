@@ -7,7 +7,7 @@ import time
 
 # Initializing webcam and hand detector
 cap = cv2.VideoCapture(0)
-detector = HandDetector(maxHands=1)
+detector = HandDetector(maxHands=4)
 
 # Setting up parameters for image processing
 offset = 20

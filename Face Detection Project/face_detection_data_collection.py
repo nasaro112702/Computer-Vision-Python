@@ -12,7 +12,7 @@ faceCascade = cv2.CascadeClassifier("Resources/haarcascade_frontalface_default.x
 cap = cv2.VideoCapture(0)
 
 # Folder to save captured images
-folder = "Data/Josua Elico"
+folder = "Data/Kuya Miko"
 counter = 0
 
 # Infinite loop to continuously capture frames from the camera
@@ -66,7 +66,7 @@ while True:
                 imgWhite[hGap:hCal + hGap, :] = imgResize
 
             # # Displaying cropped and resized face image
-            # cv2.imshow("ImageCrop", imgCrop)
+            cv2.imshow("ImageCrop", imgCrop)
             # Displaying white image with centered face
             cv2.imshow("ImageWhite", imgWhite)
         except:
