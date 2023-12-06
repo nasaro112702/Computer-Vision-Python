@@ -3,7 +3,7 @@ import cv2
 import object_measurement_utility
 
 # Reading an image
-img = cv2.imread('Resources/1.jpg')
+img = cv2.imread('Resources/2.jpg')
 
 # Setting up scale and target dimensions for image processing
 scale = 2
