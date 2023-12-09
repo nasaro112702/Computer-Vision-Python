@@ -75,9 +75,6 @@ while True:
         except:
             pass
 
-
-
-
         # # Display cropped and resized images
         # cv2.imshow("ImageCrop", imgResize)
         cv2.imshow("ImageWhite", imgWhite)
